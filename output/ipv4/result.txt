@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2025-10-07 18:32:51,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日志】$订阅源
+2025-10-09 18:31:00,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日志】$订阅源
 
 📺央视频道,#genre#
 CCTV-6,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日志】$订阅源
 CCTV-6,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日志】$订阅源
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-6,http://pa.kuangdeng.top:8081/hls/6/index.m3u8$订阅源
+CCTV-6,http://pa.kuangdeng.top:8081/hls/6/index.m3u8$订阅源
 CCTV-6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv$订阅源
 CCTV-6,http://222.169.85.8:9901/tsfile/live/0006_1.m3u8?key=txiptv$订阅源
-CCTV-6,http://ms.fxim.net:808/hls/6/index.m3u8$订阅源
-CCTV-6,http://ms.fxim.net:808/hls/6/index.m3u8$订阅源
-CCTV-6,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-6,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
