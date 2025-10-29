@@ -1,75 +1,75 @@
 <?xml version="1.0" ?>
-<tv date="20251022102608 +0800">
+<tv date="20251029102438 +0800">
 	<channel id="CCTV-6">
 		<display-name lang="zh">CCTV-6</display-name>
 	</channel>
-	<programme channel="CCTV-6" start="20251022002300 +0800" stop="20251022003600 +0800">
-		<title lang="zh">今日影评2025-210</title>
+	<programme channel="CCTV-6" start="20251029000600 +0800" stop="20251029001900 +0800">
+		<title lang="zh">今日影评2025-215</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022003600 +0800" stop="20251022020700 +0800">
-		<title lang="zh">神龙策2</title>
+	<programme channel="CCTV-6" start="20251029001900 +0800" stop="20251029015200 +0800">
+		<title lang="zh">傻小子行侠记</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022020700 +0800" stop="20251022053800 +0800">
-		<title lang="zh">扬名立万</title>
+	<programme channel="CCTV-6" start="20251029015200 +0800" stop="20251029033100 +0800">
+		<title lang="zh">大清炮队</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022053800 +0800" stop="20251022060100 +0800">
-		<title lang="zh">爱情麻辣烫-徐帆 郭涛</title>
+	<programme channel="CCTV-6" start="20251029033100 +0800" stop="20251029040600 +0800">
+		<title lang="zh">名画谜踪（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022060100 +0800" stop="20251022062600 +0800">
-		<title lang="zh">爱情麻辣烫-唐斯复 李梅</title>
+	<programme channel="CCTV-6" start="20251029040600 +0800" stop="20251029051400 +0800">
+		<title lang="zh">名画谜踪（下）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022062600 +0800" stop="20251022072600 +0800">
-		<title lang="zh">流浪地球（上）</title>
+	<programme channel="CCTV-6" start="20251029051400 +0800" stop="20251029053900 +0800">
+		<title lang="zh">我和我的家乡:天上掉下个UFO</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022072600 +0800" stop="20251022083500 +0800">
-		<title lang="zh">流浪地球（下）</title>
+	<programme channel="CCTV-6" start="20251029053900 +0800" stop="20251029060000 +0800">
+		<title lang="zh">我和我的家乡：回乡之路</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022083500 +0800" stop="20251022102200 +0800">
-		<title lang="zh">焦裕禄</title>
+	<programme channel="CCTV-6" start="20251029060000 +0800" stop="20251029080300 +0800">
+		<title lang="zh">天下无贼</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022102200 +0800" stop="20251022120400 +0800">
-		<title lang="zh">开国大典（上）</title>
+	<programme channel="CCTV-6" start="20251029080300 +0800" stop="20251029095200 +0800">
+		<title lang="zh">S4侠降魔记</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022120400 +0800" stop="20251022121000 +0800">
+	<programme channel="CCTV-6" start="20251029095200 +0800" stop="20251029115500 +0800">
+		<title lang="zh">“湾区升明月”2025大湾区电影音乐晚会（上）</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251029115500 +0800" stop="20251029120100 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022121000 +0800" stop="20251022134300 +0800">
-		<title lang="zh">开国大典（下）</title>
+	<programme channel="CCTV-6" start="20251029120100 +0800" stop="20251029141100 +0800">
+		<title lang="zh">“湾区升明月”2025大湾区电影音乐晚会（下）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022134300 +0800" stop="20251022141800 +0800">
-		<title lang="zh">他们微笑的样子（上）</title>
+	<programme channel="CCTV-6" start="20251029141100 +0800" stop="20251029144600 +0800">
+		<title lang="zh">罗榭与弗兰克（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022141800 +0800" stop="20251022155500 +0800">
-		<title lang="zh">他们微笑的样子（下）</title>
+	<programme channel="CCTV-6" start="20251029144600 +0800" stop="20251029154400 +0800">
+		<title lang="zh">罗榭与弗兰克（下）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022155500 +0800" stop="20251022175300 +0800">
-		<title lang="zh">超越</title>
+	<programme channel="CCTV-6" start="20251029154400 +0800" stop="20251029173600 +0800">
+		<title lang="zh">弥天之谎</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022175300 +0800" stop="20251022180300 +0800">
-		<title lang="zh">今日影评2025-211</title>
+	<programme channel="CCTV-6" start="20251029173600 +0800" stop="20251029174600 +0800">
+		<title lang="zh">今日影评2025-216</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022180300 +0800" stop="20251022194800 +0800">
-		<title lang="zh">冲出亚马逊</title>
+	<programme channel="CCTV-6" start="20251029174600 +0800" stop="20251029195200 +0800">
+		<title lang="zh">拆弹·专家</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022194800 +0800" stop="20251022220000 +0800">
-		<title lang="zh">湄公河行动</title>
+	<programme channel="CCTV-6" start="20251029195200 +0800" stop="20251029220000 +0800">
+		<title lang="zh">拆弹专家2</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022220000 +0800" stop="20251022221800 +0800">
-		<title lang="zh">中国电影报道 2025-295</title>
+	<programme channel="CCTV-6" start="20251029220000 +0800" stop="20251029221800 +0800">
+		<title lang="zh">中国电影报道 2025-302</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022221800 +0800" stop="20251022222300 +0800">
-		<title lang="zh">中国福利彩票阳光开奖2025-10-22</title>
+	<programme channel="CCTV-6" start="20251029221800 +0800" stop="20251029222400 +0800">
+		<title lang="zh">中国福利彩票阳光开奖2025-10-29</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022222300 +0800" stop="20251022230000 +0800">
-		<title lang="zh">黎明前到达（上）</title>
+	<programme channel="CCTV-6" start="20251029222400 +0800" stop="20251029230000 +0800">
+		<title lang="zh">天使艾美丽（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022230000 +0800" stop="20251022230100 +0800">
-		<title lang="zh">中国体育彩票阳光开奖2025-10-22</title>
+	<programme channel="CCTV-6" start="20251029230000 +0800" stop="20251029230100 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2025-10-29</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251022230100 +0800" stop="20251022235800 +0800">
-		<title lang="zh">黎明前到达（下）</title>
-	</programme>
-	<programme channel="CCTV-6" start="20251022235800 +0800" stop="20251022235900 +0800">
-		<title lang="zh">今日影评2025-211</title>
+	<programme channel="CCTV-6" start="20251029230100 +0800" stop="20251029235900 +0800">
+		<title lang="zh">天使艾美丽（下）</title>
 	</programme>
 </tv>
