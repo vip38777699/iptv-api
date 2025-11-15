@@ -1,60 +1,99 @@
 <?xml version="1.0" ?>
-<tv date="20251108102211 +0800">
+<tv date="20251115102145 +0800">
 	<channel id="CCTV-6">
 		<display-name lang="zh">CCTV-6</display-name>
 	</channel>
-	<programme channel="CCTV-6" start="20251108000800 +0800" stop="20251108002200 +0800">
-		<title lang="zh">今日影评2025-223</title>
+	<programme channel="CCTV-6" start="20251115001900 +0800" stop="20251115003200 +0800">
+		<title lang="zh">今日影评2025-228</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108002200 +0800" stop="20251108015800 +0800">
-		<title lang="zh">十八勇士</title>
+	<programme channel="CCTV-6" start="20251115003200 +0800" stop="20251115020900 +0800">
+		<title lang="zh">回廊亭</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108015800 +0800" stop="20251108032300 +0800">
-		<title lang="zh">考试一家亲</title>
+	<programme channel="CCTV-6" start="20251115020900 +0800" stop="20251115035000 +0800">
+		<title lang="zh">28岁未成年</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108032300 +0800" stop="20251108070900 +0800">
-		<title lang="zh">我们俩</title>
+	<programme channel="CCTV-6" start="20251115035000 +0800" stop="20251115052700 +0800">
+		<title lang="zh">蜗牛也是牛</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108070900 +0800" stop="20251108085000 +0800">
-		<title lang="zh">夺命黄金</title>
+	<programme channel="CCTV-6" start="20251115052700 +0800" stop="20251115060500 +0800">
+		<title lang="zh">我和我的父辈：少年行</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108085000 +0800" stop="20251108102300 +0800">
-		<title lang="zh">大上海1937</title>
+	<programme channel="CCTV-6" start="20251115060500 +0800" stop="20251115074800 +0800">
+		<title lang="zh">急先锋</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108102300 +0800" stop="20251108120600 +0800">
-		<title lang="zh">1/2的魔法</title>
+	<programme channel="CCTV-6" start="20251115074800 +0800" stop="20251115092700 +0800">
+		<title lang="zh">五郎八卦棍</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108120600 +0800" stop="20251108121200 +0800">
+	<programme channel="CCTV-6" start="20251115092700 +0800" stop="20251115100500 +0800">
+		<title lang="zh">救援小分队（上）</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115100500 +0800" stop="20251115105500 +0800">
+		<title lang="zh">救援小分队（下）</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115105500 +0800" stop="20251115110100 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108121200 +0800" stop="20251108134700 +0800">
-		<title lang="zh">峨眉飞盗</title>
+	<programme channel="CCTV-6" start="20251115110100 +0800" stop="20251115125700 +0800">
+		<title lang="zh">末路狂花钱</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108134700 +0800" stop="20251108141000 +0800">
-		<title lang="zh">《1905影视频》2025-045</title>
+	<programme channel="CCTV-6" start="20251115125700 +0800" stop="20251115144100 +0800">
+		<title lang="zh">赤子威龙</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108141000 +0800" stop="20251108155900 +0800">
-		<title lang="zh">少林寺（银都）</title>
+	<programme channel="CCTV-6" start="20251115144100 +0800" stop="20251115162000 +0800">
+		<title lang="zh">目中无人：以眼还眼</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108155900 +0800" stop="20251108175800 +0800">
-		<title lang="zh">少林小子</title>
+	<programme channel="CCTV-6" start="20251115162000 +0800" stop="20251115164500 +0800">
+		<title lang="zh">中国电影报道 2025-319</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108175800 +0800" stop="20251108195100 +0800">
-		<title lang="zh">断金</title>
+	<programme channel="CCTV-6" start="20251115164500 +0800" stop="20251115165500 +0800">
+		<title lang="zh">第38届中国电影金鸡奖提名者表彰仪式1</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108195100 +0800" stop="20251108213700 +0800">
-		<title lang="zh">醉侠苏乞儿</title>
+	<programme channel="CCTV-6" start="20251115165500 +0800" stop="20251115170500 +0800">
+		<title lang="zh">第38届中国电影金鸡奖提名者表彰仪式2</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108213700 +0800" stop="20251108215500 +0800">
-		<title lang="zh">中国电影报道 2025-312</title>
+	<programme channel="CCTV-6" start="20251115170500 +0800" stop="20251115172000 +0800">
+		<title lang="zh">第38届中国电影金鸡奖提名者表彰仪式3</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108215500 +0800" stop="20251108220100 +0800">
-		<title lang="zh">中国福利彩票阳光开奖2025-11-08</title>
+	<programme channel="CCTV-6" start="20251115172000 +0800" stop="20251115173500 +0800">
+		<title lang="zh">第38届中国电影金鸡奖提名者表彰仪式4</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108220100 +0800" stop="20251108221000 +0800">
-		<title lang="zh">佳片有约周六版2025-045</title>
+	<programme channel="CCTV-6" start="20251115173500 +0800" stop="20251115180000 +0800">
+		<title lang="zh">第38届中国电影金鸡奖提名者表彰仪式5</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251108221000 +0800" stop="20251108235900 +0800">
-		<title lang="zh">霍比特人 五军之战</title>
+	<programme channel="CCTV-6" start="20251115180000 +0800" stop="20251115180200 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼入场仪式1</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115180200 +0800" stop="20251115190500 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼入场仪式2</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115190500 +0800" stop="20251115194500 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼入场仪式3</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115194500 +0800" stop="20251115194700 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼1</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115194700 +0800" stop="20251115210300 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼2</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115210300 +0800" stop="20251115221800 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼3</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115221800 +0800" stop="20251115222300 +0800">
+		<title lang="zh">中国福利彩票阳光开奖2025-11-15</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115222300 +0800" stop="20251115230000 +0800">
+		<title lang="zh">第38届中国电影金鸡奖颁奖典礼4</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115230000 +0800" stop="20251115231100 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2025-11-15</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115231100 +0800" stop="20251115232000 +0800">
+		<title lang="zh">佳片有约周六版2025-046</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115232000 +0800" stop="20251115234500 +0800">
+		<title lang="zh">新蝙蝠侠（上）</title>
+	</programme>
+	<programme channel="CCTV-6" start="20251115234500 +0800" stop="20251115235900 +0800">
+		<title lang="zh">新蝙蝠侠（下）</title>
 	</programme>
 </tv>

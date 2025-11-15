@@ -1,8 +1,8 @@
 🕘️更新时间,#genre#
-2025-11-08 18:22:11,https://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源
+2025-11-15 18:21:45,https://live.chinacert.cftest5.cn/mg/?id=624878396$订阅源
 
 📺央视频道,#genre#
-CCTV-6,https://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源
-CCTV-6,https://shyd.695847.xyz/cms001/ch00000090990000001188/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源
+CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396$订阅源
+CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=280d56b37be81134b0c93f6d98009c732d89773dde0fe57536c5fd22070225a1ea90f8e9a57aba816bc16c695344e9e2579ade462746354c67f0756ba7e2f6d781d626fe43d2b35893ba7a4cdb$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=280d56b37be81134b0c93f6d98009c732d89773dde0fe57536c5fd22070225a1ea90f8e9a57aba816bc16c695344e9e2579ade462746354c67f0756ba7e2f6d781d626fe43d2b35893ba7a4cdb$订阅源
