@@ -1,72 +1,66 @@
 <?xml version="1.0" ?>
-<tv date="20251208102723 +0800">
+<tv date="20251215102939 +0800">
 	<channel id="CCTV-6">
 		<display-name lang="zh">CCTV-6</display-name>
 	</channel>
-	<programme channel="CCTV-6" start="20251208000500 +0800" stop="20251208014000 +0800">
-		<title lang="zh">二杠三</title>
+	<programme channel="CCTV-6" start="20251215001300 +0800" stop="20251215015200 +0800">
+		<title lang="zh">晁盖</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208014000 +0800" stop="20251208031000 +0800">
-		<title lang="zh">疾风正劲</title>
+	<programme channel="CCTV-6" start="20251215015200 +0800" stop="20251215032200 +0800">
+		<title lang="zh">神眼之金面具</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208031000 +0800" stop="20251208044300 +0800">
-		<title lang="zh">迷局伏香</title>
+	<programme channel="CCTV-6" start="20251215032200 +0800" stop="20251215054900 +0800">
+		<title lang="zh">神眼之红毛鬼</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208044300 +0800" stop="20251208045700 +0800">
-		<title lang="zh">我和我的祖国：护航</title>
+	<programme channel="CCTV-6" start="20251215054900 +0800" stop="20251215073000 +0800">
+		<title lang="zh">淮海战役（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208045700 +0800" stop="20251208065300 +0800">
-		<title lang="zh">辽沈战役（上）</title>
+	<programme channel="CCTV-6" start="20251215073000 +0800" stop="20251215093000 +0800">
+		<title lang="zh">淮海战役（下）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208065300 +0800" stop="20251208083600 +0800">
-		<title lang="zh">辽沈战役（下）</title>
+	<programme channel="CCTV-6" start="20251215093000 +0800" stop="20251215110800 +0800">
+		<title lang="zh">隐私保险箱</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208083600 +0800" stop="20251208101200 +0800">
-		<title lang="zh">活当</title>
+	<programme channel="CCTV-6" start="20251215110800 +0800" stop="20251215124700 +0800">
+		<title lang="zh">盲侠</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208101200 +0800" stop="20251208115100 +0800">
-		<title lang="zh">功夫之城</title>
-	</programme>
-	<programme channel="CCTV-6" start="20251208115100 +0800" stop="20251208115900 +0800">
+	<programme channel="CCTV-6" start="20251215124700 +0800" stop="20251215125300 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208115900 +0800" stop="20251208133800 +0800">
-		<title lang="zh">法官老张轶事 审牛记</title>
+	<programme channel="CCTV-6" start="20251215125300 +0800" stop="20251215143600 +0800">
+		<title lang="zh">十八个手印</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208133800 +0800" stop="20251208141500 +0800">
-		<title lang="zh">我和我的父辈：乘风</title>
+	<programme channel="CCTV-6" start="20251215143600 +0800" stop="20251215151300 +0800">
+		<title lang="zh">赛马女孩（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208141500 +0800" stop="20251208145000 +0800">
-		<title lang="zh">老爸上战场（上）</title>
+	<programme channel="CCTV-6" start="20251215151300 +0800" stop="20251215162200 +0800">
+		<title lang="zh">赛马女孩（下）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208145000 +0800" stop="20251208155600 +0800">
-		<title lang="zh">老爸上战场（下）</title>
+	<programme channel="CCTV-6" start="20251215162200 +0800" stop="20251215181200 +0800">
+		<title lang="zh">万万没想到</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208155600 +0800" stop="20251208181900 +0800">
-		<title lang="zh">无双</title>
+	<programme channel="CCTV-6" start="20251215181200 +0800" stop="20251215182300 +0800">
+		<title lang="zh">今日影评2025-249</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208181900 +0800" stop="20251208182900 +0800">
-		<title lang="zh">今日影评2025-244</title>
+	<programme channel="CCTV-6" start="20251215182300 +0800" stop="20251215200300 +0800">
+		<title lang="zh">战将周希汉</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208182900 +0800" stop="20251208201200 +0800">
-		<title lang="zh">密战</title>
+	<programme channel="CCTV-6" start="20251215200300 +0800" stop="20251215220000 +0800">
+		<title lang="zh">三叉戟</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208201200 +0800" stop="20251208220000 +0800">
-		<title lang="zh">紫日</title>
+	<programme channel="CCTV-6" start="20251215220000 +0800" stop="20251215221800 +0800">
+		<title lang="zh">中国电影报道 2025-349</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208220000 +0800" stop="20251208221800 +0800">
-		<title lang="zh">中国电影报道 2025-342</title>
+	<programme channel="CCTV-6" start="20251215221800 +0800" stop="20251215222300 +0800">
+		<title lang="zh">中国福利彩票阳光开奖2025-12-15</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208221800 +0800" stop="20251208222300 +0800">
-		<title lang="zh">中国福利彩票阳光开奖2025-12-08</title>
+	<programme channel="CCTV-6" start="20251215222300 +0800" stop="20251215235500 +0800">
+		<title lang="zh">智能大反攻</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208222300 +0800" stop="20251208230000 +0800">
-		<title lang="zh">无耻混蛋（上）</title>
+	<programme channel="CCTV-6" start="20251215235500 +0800" stop="20251215235900 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2025-12-15</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251208230000 +0800" stop="20251208230100 +0800">
-		<title lang="zh">中国体育彩票阳光开奖2025-12-08</title>
-	</programme>
-	<programme channel="CCTV-6" start="20251208230100 +0800" stop="20251208235900 +0800">
-		<title lang="zh">无耻混蛋（下）</title>
+	<programme channel="CCTV-6" start="20251215235900 +0800" stop="20251215235900 +0800">
+		<title lang="zh">今日影评2025-249</title>
 	</programme>
 </tv>
