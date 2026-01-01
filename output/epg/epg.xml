@@ -1,63 +1,69 @@
 <?xml version="1.0" ?>
-<tv date="20251229102717 +0800">
+<tv date="20260101102628 +0800">
 	<channel id="CCTV-6">
 		<display-name lang="zh">CCTV-6</display-name>
 	</channel>
-	<programme channel="CCTV-6" start="20251229002000 +0800" stop="20251229021400 +0800">
-		<title lang="zh">西虹市首富</title>
+	<programme channel="CCTV-6" start="20260101001000 +0800" stop="20260101002300 +0800">
+		<title lang="zh">今日影评2025-261</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229021400 +0800" stop="20251229034500 +0800">
-		<title lang="zh">魔法大逃亡</title>
+	<programme channel="CCTV-6" start="20260101002300 +0800" stop="20260101020500 +0800">
+		<title lang="zh">师父</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229034500 +0800" stop="20251229061500 +0800">
-		<title lang="zh">土地志</title>
+	<programme channel="CCTV-6" start="20260101020500 +0800" stop="20260101034600 +0800">
+		<title lang="zh">关东大侠</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229061500 +0800" stop="20251229071500 +0800">
-		<title lang="zh">开国大典 （上）</title>
+	<programme channel="CCTV-6" start="20260101034600 +0800" stop="20260101051900 +0800">
+		<title lang="zh">扣篮对决</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229071500 +0800" stop="20251229084400 +0800">
-		<title lang="zh">开国大典 （下）</title>
+	<programme channel="CCTV-6" start="20260101051900 +0800" stop="20260101064100 +0800">
+		<title lang="zh">少年派方世玉</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229084400 +0800" stop="20251229102400 +0800">
-		<title lang="zh">黑活儿</title>
+	<programme channel="CCTV-6" start="20260101064100 +0800" stop="20260101082800 +0800">
+		<title lang="zh">叶问4：完结篇</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229102400 +0800" stop="20251229123200 +0800">
-		<title lang="zh">战国</title>
+	<programme channel="CCTV-6" start="20260101082800 +0800" stop="20260101101400 +0800">
+		<title lang="zh">隐婚男女</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229123200 +0800" stop="20251229123800 +0800">
+	<programme channel="CCTV-6" start="20260101101400 +0800" stop="20260101115800 +0800">
+		<title lang="zh">大灌篮</title>
+	</programme>
+	<programme channel="CCTV-6" start="20260101115800 +0800" stop="20260101120300 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229123800 +0800" stop="20251229143100 +0800">
-		<title lang="zh">我心飞扬</title>
+	<programme channel="CCTV-6" start="20260101120300 +0800" stop="20260101140400 +0800">
+		<title lang="zh">海关战线</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229143100 +0800" stop="20251229161300 +0800">
-		<title lang="zh">人猴情</title>
+	<programme channel="CCTV-6" start="20260101140400 +0800" stop="20260101153800 +0800">
+		<title lang="zh">功夫熊猫</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229161300 +0800" stop="20251229175400 +0800">
-		<title lang="zh">岳家小将</title>
+	<programme channel="CCTV-6" start="20260101153800 +0800" stop="20260101172700 +0800">
+		<title lang="zh">侠骨钢拳</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229175400 +0800" stop="20251229180500 +0800">
-		<title lang="zh">今日影评2025-259</title>
+	<programme channel="CCTV-6" start="20260101172700 +0800" stop="20260101173700 +0800">
+		<title lang="zh">今日影评2026-001</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229180500 +0800" stop="20251229200400 +0800">
-		<title lang="zh">湘西剿匪记 （上）</title>
+	<programme channel="CCTV-6" start="20260101173700 +0800" stop="20260101194500 +0800">
+		<title lang="zh">谈判专家</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229200400 +0800" stop="20251229215800 +0800">
-		<title lang="zh">湘西剿匪记 （下）</title>
+	<programme channel="CCTV-6" start="20260101194500 +0800" stop="20260101220000 +0800">
+		<title lang="zh">东极岛</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229215800 +0800" stop="20251229221600 +0800">
-		<title lang="zh">中国电影报道 2025-363</title>
+	<programme channel="CCTV-6" start="20260101220000 +0800" stop="20260101221800 +0800">
+		<title lang="zh">中国电影报道2026-001</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229221600 +0800" stop="20251229222100 +0800">
-		<title lang="zh">中国福利彩票阳光开奖2025-12-29</title>
+	<programme channel="CCTV-6" start="20260101221800 +0800" stop="20260101222400 +0800">
+		<title lang="zh">中国福利彩票阳光开奖2026-01-01</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229222100 +0800" stop="20251229225700 +0800">
-		<title lang="zh">白雪公主与猎人（上）</title>
+	<programme channel="CCTV-6" start="20260101222400 +0800" stop="20260101230000 +0800">
+		<title lang="zh">夏日的么么茶（上）</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229225700 +0800" stop="20251229225900 +0800">
-		<title lang="zh">中国体育彩票阳光开奖2025-12-29</title>
+	<programme channel="CCTV-6" start="20260101230000 +0800" stop="20260101230100 +0800">
+		<title lang="zh">中国体育彩票阳光开奖2026-01-01</title>
 	</programme>
-	<programme channel="CCTV-6" start="20251229225900 +0800" stop="20251229235900 +0800">
-		<title lang="zh">白雪公主与猎人（下）</title>
+	<programme channel="CCTV-6" start="20260101230100 +0800" stop="20260101235900 +0800">
+		<title lang="zh">夏日的么么茶（下）</title>
+	</programme>
+	<programme channel="CCTV-6" start="20260101235900 +0800" stop="20260101235900 +0800">
+		<title lang="zh">今日影评2026-001</title>
 	</programme>
 </tv>
