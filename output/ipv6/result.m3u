@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/vip38777699/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🕘️更新时间",2026-04-22 19:09:17
-https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🕘️更新时间",2026-04-29 19:40:06
+https://www.freetv.top/migu/624878396.m3u8?migutoken=38a08d31f79563a15b6c38307b16c1f1fd2715f58a1bff21d307adaa6597fb3ea267812ba6ac28a74fa0648f0a2003c0d93e137f0257353bff9dedc7eff0cc871a38e97a269bf9ab6e14a4171d$订阅源
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
+https://www.freetv.top/migu/624878396.m3u8?migutoken=38a08d31f79563a15b6c38307b16c1f1fd2715f58a1bff21d307adaa6597fb3ea267812ba6ac28a74fa0648f0a2003c0d93e137f0257353bff9dedc7eff0cc871a38e97a269bf9ab6e14a4171d$订阅源
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
+https://www.freetv.top/migu/624878396.m3u8?migutoken=38a08d31f79563a15b6c38307b16c1f1fd2715f58a1bff21d307adaa6597fb3ea267812ba6ac28a74fa0648f0a2003c0d93e137f0257353bff9dedc7eff0cc871a38e97a269bf9ab6e14a4171d$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
