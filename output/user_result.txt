@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-06-01 23:59:03,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
+2026-06-08 22:10:08,http://69.30.245.50/live/cctv6.m3u8$订阅源
 
 📺央视频道,#genre#
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8$订阅源
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8$订阅源
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8$订阅源
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=c604d1dc88387983185d3a508d55f87f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=10$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=10$订阅源
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8$订阅源
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8$订阅源
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8$订阅源
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8$订阅源
