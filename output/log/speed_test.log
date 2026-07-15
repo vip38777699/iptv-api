@@ -1,13 +1,10 @@
-Name: CCTV-6, URL: https://iptv.catvod.com/live.php?id=CCTV6&line=10, From: subscribe, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: IT7网络, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 913 ms, Speed: 0.73 M/s, Resolution: 1280x720
-Name: CCTV-6, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 1830 ms, Speed: 1.45 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 427 ms, Speed: 5.53 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://27.12.12.29:1234/624878396, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://207.56.13.146:81/cdnlive/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州, ISP: NTT(美国)通信公司, Date: None, Delay: 6385 ms, Speed: 0.45 M/s, Resolution: 1280x720
-Name: CCTV-6, URL: http://173.208.212.130:8181/720p/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 11525 ms, Speed: 0.24 M/s, Resolution: 1280x720
-Name: CCTV-6, URL: http://69.30.245.50/live/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 11533 ms, Speed: 0.24 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://198.204.240.250:82/live/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 11520 ms, Speed: 0.24 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://123.163.114.168:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-鹤壁, ISP: 电信, Date: None, Delay: 12044 ms, Speed: 0.02 M/s, Resolution: None
-Name: CCTV-6, URL: http://www.negative.top:50000/rtp/233.50.200.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-宁波, ISP: 电信, Date: None, Delay: 829 ms, Speed: 0.01 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://182.37.41.46:8154/tsfile/live/0006_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-日照, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-6, URL: http://101.66.198.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-6, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-哥伦比亚特区-哥伦比亚特区, ISP: Cogent, Date: None, Delay: 353 ms, Speed: 3.60 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://69.30.245.50/live/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 519 ms, Speed: 2.54 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://173.208.212.130:8181/720p/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 522 ms, Speed: 2.50 M/s, Resolution: 1280x720
+Name: CCTV-6, URL: http://198.204.240.250:82/live/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 516 ms, Speed: 2.48 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 354 ms, Speed: 3.70 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://207.56.13.146:81/cdnlive/cctv6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州, ISP: NTT(美国)通信公司, Date: None, Delay: 429 ms, Speed: 2.70 M/s, Resolution: 1280x720
+Name: CCTV-6, URL: https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 920 ms, Speed: 0.70 M/s, Resolution: 1280x720
+Name: CCTV-6, URL: http://www.negative.top:50000/rtp/233.50.200.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-宁波, ISP: 电信, Date: None, Delay: 740 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://27.12.12.183:1234/624878396, From: subscribe, IPv_Type: ipv4, Location: 中国-重庆-重庆, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-6, URL: http://110.154.192.66:7788/624878396, From: subscribe, IPv_Type: ipv4, Location: 中国-新疆-阿克苏地区, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
